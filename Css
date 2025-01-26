@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(11, 53, 109); 
+    justify-content: center;
+    align-items: center;
+
+}
+
+form{
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    margin-bottom: auto; 
+    align-items: center;
+    background-color:white;
+    border: none;
+    align-items: center;
+}
+
+input{
+    
+    font-size: 12px;
+    border-color: rgb(63, 103, 214);
+    border-radius: 9px;
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    color: rgb(77, 114, 236);
+}
+
+h6{
+    font-weight: 200;
+}
+
+a{
+    text-align: end;
+}
+
+button{
+    background-color: rgb(96, 159, 231);
+    color: white;
+    border-radius: 20px;
+    width: 90px;
+    padding: 8px;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    margin-top: 20px;
+}
